@@ -1,0 +1,27 @@
+body {
+    background: #7f9ab3 url('css/hahahaahaha.png') center;
+    background-position-x: right;
+
+}
+
+button {
+    width: 500px;
+    height: 500px;
+    background-image: url("css/fatmam.png");
+    cursor: pointer;
+
+}
+
+h1 {
+    background-color: blue;
+
+
+}
+
+b {
+    background-color: yellow;
+}
+
+p {
+    background-color: yellow;
+}
